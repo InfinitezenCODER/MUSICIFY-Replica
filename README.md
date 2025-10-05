@@ -1,7 +1,9 @@
 # MUSICIFY-Replica
 It will be a Replica of  Most popular and  a huge Music Library "Spotify"..
 <br>
-AUTHOR - InfinitezenCODER
+I am learning CSS-JS and building this app clone Side by Side....
+<br>
+AUTHOR - InfinitezenCODER (Never Stop Learning)
 <br>
 
 <!DOCTYPE html>
@@ -9,7 +11,10 @@ AUTHOR - InfinitezenCODER
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+    <title> Musicify - Anywhere you go </title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    
 </head>
 <body>
 </body>
